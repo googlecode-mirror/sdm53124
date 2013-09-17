@@ -17,4 +17,4 @@
 SVN Server
 มาเริ่มตั้งแต่ส่วนแรกกันจะเป็นการขอใช้งาน Google Code SVN Server ซึ่งจะต้องมีชื่อผู้ใช้งานอยู่ดังที่กล่าวไว้แล้ว จากนั้นมาสร้าง project 
 1. ไปที่ url ต่อไปนี้เพื่อเริ่มต้นการสร้าง project บน Google Code http://code.google.com/hosting/ ดังรูปปที่ 2
-<img src="https://sdm53124.googlecode.com/issues/attachment?aid=10000000&name=Untitled.png&token=hHQxDXQ3sczuu2VbR1V7EhYRGbg%3A1379410423665&inline=1" width='500' height='300'/>
+<img src="https://sdm53124.googlecode.com/issues/attachment?aid=10001000&name=21.png&token=Ffu74FECZYoP3E0o_5t6Tl2QKAM%3A1379411093028&inline=1" width='500' height='300'/>
