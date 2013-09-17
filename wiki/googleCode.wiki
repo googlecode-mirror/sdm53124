@@ -10,3 +10,10 @@
 <img src="https://sdm53124.googlecode.com/issues/attachment?aid=10000000&name=Untitled.png&token=hHQxDXQ3sczuu2VbR1V7EhYRGbg%3A1379410423665&inline=1" width='500' height='300'/>
 
 รูปที่ 1
+
+การใช้งานจะต้องดาเนินการ 2 ส่วนคือ
+1. ส่วน SVN Server ใช้ Google Code SVN Server
+2. ส่วน SVN Client ใช้งาน TortoiseSVN
+SVN Server
+มาเริ่มตั้งแต่ส่วนแรกกันจะเป็นการขอใช้งาน Google Code SVN Server ซึ่งจะต้องมีชื่อผู้ใช้งานอยู่ดังที่กล่าวไว้แล้ว จากนั้นมาสร้าง project 
+1. ไปที่ url ต่อไปนี้เพื่อเริ่มต้นการสร้าง project บน Google Code http://code.google.com/hosting/ ดังรูปปที่ 2
