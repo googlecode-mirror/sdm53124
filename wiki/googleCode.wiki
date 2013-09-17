@@ -23,3 +23,6 @@ SVN Server
 หากยังไม่ login คลิกเพื่อ login
 3. ถัดมาจะต้องเริ่มให้ข้อมูลโครงการว่ามีรายละเอียดอย่างไรดังรูปที่ 3
 <img src="https://sdm53124.googlecode.com/issues/attachment?aid=10002000&name=22.png&token=DyO3DIU3bABFAHdYz7BvLNYxlfE%3A1379411477238&inline=1" width='500' height='300'/>
+รูปที่ 3
+4. เมื่อทาการกรอกรายละเอียดเรียบร้อยแล้ว กด Create project
+5. เราก็จะได้ project ที่จะใช้ในการทางานบน Google Code SVN Server แล้วดังรูปที่ 4
