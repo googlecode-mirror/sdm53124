@@ -1,0 +1,12 @@
+#summary One-sentence summary of this page.
+
+เริ่มต้นจากการที่เราต้องมีชื่อผู้ใช้ของ Google ก่อนซึ่งสามารถสมัครได้ฟรีที่ gmail.com
+1. ชื่อผู้ใช้ (ชื่อผู้ใช้ ไม่ต้องตามด้วย @gmail.com)
+2. รหัสผ่านของการเข้าใช้ (Password of session) เป็นหมายเลขที่เราสามารถดูได้หลังจาก login เข้าใช้ gmail จากนั้นไปที่url ต่อไปนี้ https://code.google.com/hosting/settings
+3. รหัสผ่านสาหรับ SVN จะเป็นส่วนที่ได้จากขั้นตอนด้านบนเพื่อนาไปใช้กับโปรแกรม SVN Client
+การใช้งานจะต้องดาเนินการ 2 ส่วนคือ
+1. ส่วน SVN Server ใช้ Google Code SVN Server
+2. ส่วน SVN Client ใช้งาน TortoiseSVN
+SVN Server
+มาเริ่มตั้งแต่ส่วนแรกกันจะเป็นการขอใช้งาน Google Code SVN Server ซึ่งจะต้องมีชื่อผู้ใช้งานอยู่ดังที่กล่าวไว้แล้ว ถ้ายังก็ไปสมัครได้เลยนะครับ จากนั้นมาสร้าง project กัน
+1. ไปที่ url ต่อไปนี้เพื่อเริ่มต้นการสร้าง project บน Google Code http://code.google.com/hosting/ ดังรูปปที่ 2
