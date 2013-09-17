@@ -10,6 +10,8 @@
 3. รหัสผ่านสาหรับ SVN จะเป็นส่วนที่ได้จากขั้นตอนด้านบนเพื่อนาไปใช้กับโปรแกรม SVN Client
 
 
+
+
 <img src="https://sdm53124.googlecode.com/issues/attachment?aid=10000000&name=Untitled.png&token=hHQxDXQ3sczuu2VbR1V7EhYRGbg%3A1379410423665&inline=1" width='500' height='300'/>
 
                                   รูปที่ 1
@@ -23,6 +25,10 @@ SVN Server
 มาเริ่มตั้งแต่ส่วนแรกกันจะเป็นการขอใช้งาน Google Code SVN Server ซึ่งจะต้องมีชื่อผู้ใช้งานอยู่ดังที่กล่าวไว้แล้ว จากนั้นมาสร้าง project 
 
 1. ไปที่ url ต่อไปนี้เพื่อเริ่มต้นการสร้าง project บน Google Code http://code.google.com/hosting/ ดังรูปที่ 2
+
+
+
+
 <img src="https://sdm53124.googlecode.com/issues/attachment?aid=10001000&name=21.png&token=Ffu74FECZYoP3E0o_5t6Tl2QKAM%3A1379411093028&inline=1" width='500' height='300'/>
                                  
                                 รูปที่ 2
@@ -38,6 +44,9 @@ SVN Server
 4. เมื่อทาการกรอกรายละเอียดเรียบร้อยแล้ว กด Create project
 
 5. เราก็จะได้ project ที่จะใช้ในการทางานบน Google Code SVN Server แล้วดังรูปที่ 4
+
+
+
 <img src="https://sdm53124.googlecode.com/issues/attachment?aid=20000000&name=23.png&token=zq6WFNgivVP8B35k7mYVga9Xv54%3A1379412119688&inline=1" width='500' height='300'/>
                                  
                                    ดังรูปที่ 4
