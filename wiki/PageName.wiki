@@ -1,12 +1,8 @@
 #summary สนุกมากเลยฉันที่ได้แกล้งเธอ
-= Introduction =
+= สนุกมากมายเลย =
 
-Add your content here.
+การแกล้งมันสนุกมาก
 
 
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+= ฉันชื่อแอะดา    อยู่เอกเกษตรบูรณาการ =
+= มีความสุขกับการเก็บปุ่ยหมัก เป็นที่ชอบสำหรับฉัน =
