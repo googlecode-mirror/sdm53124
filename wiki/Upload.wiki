@@ -23,6 +23,7 @@
 = การลบไฟล์(Delete) =
 
 1. เลือกไฟล์ที่จะทำการลบ
+<img src="https://sdm53124.googlecode.com/svn/41.png"/>
  
 2. คลิกที่ Delete download
 
