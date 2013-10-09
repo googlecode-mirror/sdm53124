@@ -49,6 +49,12 @@
 
 3.เลือกที่สมาชิกที่ต้องการแก้ไขสิทธิ์
 
+<img src="https://sdm53124.googlecode.com/svn/57.png"/>
+
 4.เลือกที่ Role เพื่อต้องการแก้ไขสิทธิ์
 
+<img src="https://sdm53124.googlecode.com/svn/58.png"/>
+
 5.เลือกที่ Save changes 
+
+<img src="https://sdm53124.googlecode.com/svn/59.png"/>
