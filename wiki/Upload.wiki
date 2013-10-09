@@ -8,6 +8,8 @@
 
 2.คลิกที่ New download
 
+<img src="https://sdm53124.googlecode.com/svn/32.png"/>
+
 3.กรอกรายละเอียดดังนี้
 
  Summary : กำหนดชื่อ
