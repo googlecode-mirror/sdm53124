@@ -25,3 +25,5 @@
 1. เลือกไฟล์ที่จะทำการลบ
  
 2. คลิกที่ Delete download
+
+<img src="https://sdm53124.googlecode.com/svn/42.png"/>
