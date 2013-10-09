@@ -3,10 +3,11 @@
 = การดาวน์โหวดไฟล์(Download) =
 
 1.คลิกที่ Download
-<img src="https://sdm53124.googlecode.com/issues/attachment?aid=10000000&name=Untitled.png&token=hHQxDXQ3sczuu2VbR1V7EhYRGbg%3A1379410423665&inline=1" width='500' height='300'/>
 
 <img src="https://sdm53124.googlecode.com/svn/331.png"/>
+
 2.คลิกที่ New download
+
 3.กรอกรายละเอียดดังนี้
 
  Summary : กำหนดชื่อ
