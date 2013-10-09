@@ -32,4 +32,10 @@
 
 3.เลือกผู้ใช้ที่ต้องการลบ
 
-4.เลือกที่ Remove member เพื่อลบผู้ใช้ออก 
+<img src="https://sdm53124.googlecode.com/svn/55.png"/>
+
+4.เลือกที่ Remove member เพื่อลบผู้ใช้ออก
+ 
+  จะแสดงข้อความว่าลบผู้ใช้ออกแล้ว 
+
+<img src="https://sdm53124.googlecode.com/svn/56.png"/>
