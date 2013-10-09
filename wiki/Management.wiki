@@ -8,7 +8,7 @@
 
 3.เลือกที่ Add member 
 
-
+<img src="https://sdm53124.googlecode.com/svn/51.png"/>
 
 4.กรอก E-mail ของผู้ใช้ที่จะเพิ่ม ซึ่งเป็นอีเมลล์ที่สามารถเข้าใช้ google code ได้
 
@@ -21,3 +21,5 @@
   Contributor : ไม่มีสิทธิ์ในการจัดการโปรเจ็กต์ เหมือนกับผู็ที่ไม่เป็นสามาชิก
 
 6.เลือกที่ Add member เพื่อเพิ่มรายชื่อผู้ใช้
+
+<img src="https://sdm53124.googlecode.com/svn/52.png"/>
