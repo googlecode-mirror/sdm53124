@@ -40,7 +40,7 @@
  
 3.คลิ๊กปุ่ม Save changes
 
-<img scr="https://sdm53124.googlecode.com/svn/44.png"/>
+<img src="https://sdm53124.googlecode.com/svn/44.png"/>
 
 4.มีกล่องข้อความแสดงเตือน เพื่อยืนยันการแก้ไข เลือกคลิก OK
 
