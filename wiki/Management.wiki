@@ -23,3 +23,13 @@
 6.เลือกที่ Add member เพื่อเพิ่มรายชื่อผู้ใช้
 
 <img src="https://sdm53124.googlecode.com/svn/52.png"/>
+
+= การลบผู้ใช้ =
+
+1.เลือกที่ Project Home
+ 
+2.เลือกที่ People
+
+3.เลือกผู้ใช้ที่ต้องการลบ
+
+4.เลือกที่ Remove member เพื่อลบผู้ใช้ออก 
