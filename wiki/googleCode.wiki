@@ -8,8 +8,8 @@
 
 <img src="https://sdm53124.googlecode.com/svn/88.png"/>
 
-2.กรอกข้อมูล E-Mail 
+2.กรอกข้อมูล E-Mail เพื่อทำการ Sign in
 
 <img src="https://sdm53124.googlecode.com/svn/89.png"/>
 
-3. Sign in ด้วย E-Mail ของเราที่เป็นของ Google
+3.เข้าสู่หน้า google code
