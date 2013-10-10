@@ -6,6 +6,8 @@
 
 2.เลือกที่ Checkout
 
+ <img src="https://sdm53124.googlecode.com/svn/50.png"/>
+
 = การ Commit =
 
 1.คลิกขวาที่โปรเจ็กต์ 
@@ -14,9 +16,13 @@
 
 3.เลือกที่ Commit
 
+ <img src="https://sdm53124.googlecode.com/svn/500.png"/>
+
 4.กรอกรายละเอียดการแก้ไขในช่อง Comment 
 
 5.คลิก OK
+
+ <img src="https://sdm53124.googlecode.com/svn/501.png"/>
 
 = การ Update =
 
