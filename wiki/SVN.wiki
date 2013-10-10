@@ -8,6 +8,8 @@
 
   2.เลือกที่ Help
 
+   <img src="https://sdm53124.googlecode.com/svn/5.png"/>
+
   3.เลือกที่ Install New Software
     จะปรากฏหน้าต่าง Install Available Software
     ในช่อง work with เลือก http://download.eclipse.org/release/รุ่น
