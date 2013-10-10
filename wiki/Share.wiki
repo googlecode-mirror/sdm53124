@@ -6,11 +6,11 @@
 
 2.เลือกที่ Team 
 
-<img src="https://sdm53124.googlecode.com/svn/15.png"/>
+  <img src="https://sdm53124.googlecode.com/svn/15.png"/>
 
 3.เลือกที่ Share Project
 
-<img src="https://sdm53124.googlecode.com/svn/16.png"/>
+ <img src="https://sdm53124.googlecode.com/svn/16.png"/>
 
 4.เลือกที่ Create a new repository location 
 
@@ -27,4 +27,5 @@
              googlecode.com password.
 
 7.เลือกที่ Finish
-<img src="https://sdm53124.googlecode.com/svn/20.png"/>
+
+  <img src="https://sdm53124.googlecode.com/svn/20.png"/>
