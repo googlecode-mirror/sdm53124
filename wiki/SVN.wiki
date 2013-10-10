@@ -38,21 +38,6 @@
   
    <img src="https://sdm53124.googlecode.com/svn/12.png"/>
 
-   <img src="https://sdm53124.googlecode.com/svn/13.png"/>
-
-    <img src="https://sdm53124.googlecode.com/svn/14.png"/>
- 
- <img src="https://sdm53124.googlecode.com/svn/15.png"/>
-
- <img src="https://sdm53124.googlecode.com/svn/16.png"/>
-
- <img src="https://sdm53124.googlecode.com/svn/17.png"/>
-
- <img src="https://sdm53124.googlecode.com/svn/18.png"/>
-
- <img src="https://sdm53124.googlecode.com/svn/19.png"/>
-  
-
   9.คลิกที่ finish
 
     
