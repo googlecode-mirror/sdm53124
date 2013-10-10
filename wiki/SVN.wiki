@@ -6,21 +6,23 @@
 
   1.เปิด Eclipse
 
-  2.เลือก Help ---> Install New Software
+  2.เลือกที่ Help
+
+  3.เลือกที่ Install New Software
     จะปรากฏหน้าต่าง Install Available Software
     ในช่อง work with เลือก http://download.eclipse.org/release/รุ่น
 
-  3.เลือกรายการ collaboration
+  4.เลือกรายการ collaboration
 
-  4.เลือกรายการย่อย Subversive SVN Team provider
+  5.เลือกรายการย่อย Subversive SVN Team provider
   
-  5.คลิกที่ Next
+  6.คลิกที่ Next
 
-  6.คลิกที่ Next เพื่อเริ่มกระบวนการติดตั้ง
+  7.คลิกที่ Next เพื่อเริ่มกระบวนการติดตั้ง
     
-  7.เลือก I accept เพื่อยอมรับ opensource license
+  8.เลือก I accept เพื่อยอมรับ opensource license
 
-  8.คลิกที่ finish
+  9.คลิกที่ finish
 
     
     จากนั้นรอจนกว่าจะติดตั้งเสร็จสิ้น แล้ว restart eclipse ใหม่อีกครั้ง ซึ่งถือว่าเป็นอันเสร็จขั้นตอนของการติดตั้ง SVN บน eclipse
