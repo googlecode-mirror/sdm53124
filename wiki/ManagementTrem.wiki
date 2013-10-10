@@ -1,0 +1,11 @@
+#summary การจัดการโปรเจ็กต์ผ่านทีม.
+
+= การ Check out =
+
+= การ Commit =
+
+= การ Update =
+
+= การ Compare =
+
+= การ Revert =
