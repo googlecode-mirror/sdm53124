@@ -16,8 +16,6 @@
 
 5.เลือกที่ Finish
 
-
-
 6.กรอกรายละเอียดการ Share Project ผ่าน SVN
 
   URL : สามารถดูได้จาก Google code ในหน้า Source ของโปรเจ็กต์ที่เราต้องการแชร์ 
@@ -29,3 +27,4 @@
              googlecode.com password.
 
 7.เลือกที่ Finish
+<img src="https://sdm53124.googlecode.com/svn/20.png"/>
