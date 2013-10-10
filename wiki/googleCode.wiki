@@ -6,4 +6,6 @@
 
 2. เข้าที่ไปใน URL http://code.google.com
 
+<img src=""/>
+
 3. Sign in ด้วย E-Mail ของเราที่เป็นของ Google
