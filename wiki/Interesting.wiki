@@ -14,6 +14,8 @@
 
 Checkout.. ดังรูปที่
 
+<img src="https://sdm53124.googlecode.com/svn/71.png"/>
+
 2.จะปรากฏหน้าต่างใหม่ขึ้นมาโดย TortoiseSVN จะถาม url ที่อยู่ของ SVN Server ในที่นี้เราได้
 
 สร้างไว้แล้วในขั้นตอน Server นั้นคือ 
