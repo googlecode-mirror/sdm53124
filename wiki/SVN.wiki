@@ -36,9 +36,13 @@
     
   8.เลือก I accept เพื่อยอมรับ opensource license
   
-   <img src="https://sdm53124.googlecode.com/svn/12.png"/>
-
   9.คลิกที่ finish
+
+   <img src="https://sdm53124.googlecode.com/svn/12.png"/>
 
     
     จากนั้นรอจนกว่าจะติดตั้งเสร็จสิ้น แล้ว restart eclipse ใหม่อีกครั้ง ซึ่งถือว่าเป็นอันเสร็จขั้นตอนของการติดตั้ง SVN บน eclipse
+
+    <img src="https://sdm53124.googlecode.com/svn/13.png"/>
+
+    <img src="https://sdm53124.googlecode.com/svn/14.png"/>
