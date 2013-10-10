@@ -32,6 +32,9 @@
 
 3.เลือกที่ Update
 
+<img src="https://sdm53124.googlecode.com/svn/504.png"/>
+
+
 = การ Compare =
 
 1.คลิกขวาที่โปรเจ็กต์
@@ -53,3 +56,5 @@
 2.เลือกที่ Team
 
 3.เลือกที่ Revert
+
+<img src="https://sdm53124.googlecode.com/svn/505.png"/>
