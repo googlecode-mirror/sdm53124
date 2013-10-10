@@ -2,10 +2,14 @@
 
 = การลงทะเบียนใช้งาน google code =
 
-1. ต้องสมัคร E-Mail ของ Google หรือ Gmailก่อน
 
-2. เข้าที่ไปใน URL http://code.google.com
+
+1.เข้าที่ไปใน URL http://code.google.com
 
 <img src="https://sdm53124.googlecode.com/svn/88.png"/>
+
+2.กรอกข้อมูล E-Mail 
+
+<img src="https://sdm53124.googlecode.com/svn/89.png"/>
 
 3. Sign in ด้วย E-Mail ของเราที่เป็นของ Google
