@@ -1,0 +1,47 @@
+# การติดตั้ง SVN บน Eclipse #
+
+มีขั้นตอนดังต่อไปนี้:
+
+  1. เปิด Eclipse
+
+> 2.เลือกที่ Help
+
+> <img src='https://sdm53124.googlecode.com/svn/5.png' />
+
+> 3.เลือกที่ Install New Software
+
+> <img src='https://sdm53124.googlecode.com/svn/6.png' />
+> > จะปรากฏหน้าต่าง Install Available Software
+> > ในช่อง work with เลือก http://download.eclipse.org/release/รุ่น
+
+
+> <img src='https://sdm53124.googlecode.com/svn/7.png' />
+
+> 4.เลือกรายการ collaboration
+
+> <img src='https://sdm53124.googlecode.com/svn/8.png' />
+
+> 5.เลือกรายการย่อย Subversive SVN Team provider
+
+> <img src='https://sdm53124.googlecode.com/svn/9.png' />
+
+> 6.คลิกที่ Next
+
+> <img src='https://sdm53124.googlecode.com/svn/10.png' />
+
+> 7.คลิกที่ Next เพื่อเริ่มกระบวนการติดตั้ง
+
+> <img src='https://sdm53124.googlecode.com/svn/11.png' />
+
+> 8.เลือก I accept เพื่อยอมรับ opensource license
+
+> 9.คลิกที่ finish
+
+> <img src='https://sdm53124.googlecode.com/svn/12.png' />
+
+
+> จากนั้นรอจนกว่าจะติดตั้งเสร็จสิ้น แล้ว restart eclipse ใหม่อีกครั้ง ซึ่งถือว่าเป็นอันเสร็จขั้นตอนของการติดตั้ง SVN บน eclipse
+
+> <img src='https://sdm53124.googlecode.com/svn/13.png' />
+
+> <img src='https://sdm53124.googlecode.com/svn/14.png' />

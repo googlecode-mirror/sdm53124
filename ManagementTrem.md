@@ -1,0 +1,58 @@
+# การ Check out #
+
+1.คลิกขวาที่โปรเจ็กต์
+
+2.เลือกที่ Checkout
+
+> <img src='https://sdm53124.googlecode.com/svn/50.png' />
+
+# การ Commit #
+
+1.คลิกขวาที่โปรเจ็กต์
+
+2.เลือกที่ Team
+
+3.เลือกที่ Commit
+
+> <img src='https://sdm53124.googlecode.com/svn/500.png' />
+
+4.กรอกรายละเอียดการแก้ไขในช่อง Comment
+
+5.คลิก OK
+
+> <img src='https://sdm53124.googlecode.com/svn/501.png' />
+
+# การ Update #
+
+1.คลิกขวาที่โปรเจ็กต์
+
+2.เลือกที่ Team
+
+3.เลือกที่ Update
+
+<img src='https://sdm53124.googlecode.com/svn/504.png' />
+
+
+# การ Compare #
+
+1.คลิกขวาที่โปรเจ็กต์
+
+2.เลือกที่ Compare With
+
+3.เลือกที่ Latest from Repository
+
+> <img src='https://sdm53124.googlecode.com/svn/502.png' />
+
+4.แสดงการเปรียบเทียบข้อมูลทั้งสอง
+
+<img src='https://sdm53124.googlecode.com/svn/503.png' />
+
+# การ Revert #
+
+1.คลิกขวาที่โปรเจ็กต์
+
+2.เลือกที่ Team
+
+3.เลือกที่ Revert
+
+<img src='https://sdm53124.googlecode.com/svn/505.png' />

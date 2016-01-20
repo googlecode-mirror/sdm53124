@@ -1,0 +1,15 @@
+# การลงทะเบียนใช้งาน google code #
+
+
+
+1.เข้าที่ไปใน URL http://code.google.com
+
+<img src='https://sdm53124.googlecode.com/svn/88.png' />
+
+2.กรอกข้อมูล E-Mail เพื่อทำการ Sign in
+
+<img src='https://sdm53124.googlecode.com/svn/89.png' />
+
+3.เข้าสู่หน้า google code
+
+<img src='https://sdm53124.googlecode.com/svn/87.png' />
